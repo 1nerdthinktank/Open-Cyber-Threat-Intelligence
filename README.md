@@ -1,2 +1,2 @@
 # OpenCTI
-Building my own Cyber Threat Intelligence framework.
+Building my own Cyber Threat Intelligence CTI framework.
